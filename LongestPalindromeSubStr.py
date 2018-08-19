@@ -34,5 +34,5 @@ class LongestPalindromeSubStr:
 
 
 if __name__ == "__main__" :
-    l = LongestPalindromeSubStr('cbd')
+    l = LongestPalindromeSubStr('cccbbddeeeffghhhhhhiij')
     print(l.form_largest_palindrome())
